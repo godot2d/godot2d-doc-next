@@ -25,7 +25,7 @@ export default defineUserConfig({
             text: 'Homepage',
             link: '/',
           },
-          '/foo/README.md',
+          '/README.md',
         ],
       },
       "/zh/": {
@@ -34,7 +34,7 @@ export default defineUserConfig({
             text: '首页',
             link: '/zh',
           },
-          '/zh/foo/README.md',
+          '/zh/README.md',
         ],
       },
     },
